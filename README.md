@@ -30,5 +30,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivendra-webkul&show_icons=true&locale=en" alt="shivendra-webkul" /></p>
 
+![An image of @7392's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/7392)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivendra-webkul&" alt="shivendra-webkul" /></p>
-[![An image of @7392's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/7392)](https://holopin.io/@7392)
+

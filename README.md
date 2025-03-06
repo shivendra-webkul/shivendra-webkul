@@ -14,10 +14,13 @@
 ## 💼 About Me
 
 - 🔭 I'm currently working on [Bagisto](https://github.com/bagisto/bagisto) - an open-source Laravel eCommerce platform
-- 🌱 I'm currently learning **Vue.js** to enhance my frontend development skills
+- 👨‍💻 I have 2+ years of experience with **Laravel, Vue.js, and Tailwind CSS**
+- 🏆 Contributed significantly to [Krayin CRM](https://github.com/krayin/laravel-crm) and [Bagisto](https://github.com/bagisto/bagisto) projects
+- 🚀 Specialized in developing and enhancing eCommerce solutions and CRM systems
+- 🌱 I'm currently learning advanced **Vue.js** techniques to build more interactive UIs
 - 📝 I regularly write articles on [Bagisto's Blog](https://bagisto.com/en/blog/)
-- 💬 Ask me about **Laravel, PHP, eCommerce solutions, and web development**
-- 🚀 Passionate about building scalable web applications and eCommerce solutions
+- 💬 Ask me about **Laravel, PHP, eCommerce solutions, CRM development, and web applications**
+- 🛠️ Passionate about building scalable web applications with modern tech stacks
 
 ## 🛠️ Languages and Tools
 

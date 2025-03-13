@@ -5,9 +5,11 @@
   <img src="https://komarev.com/ghpvc/?username=shivendra-webkul&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
+## 🏆 GitHub Achievements
 <p align="center">
+  <!-- GitHub Trophies -->
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=shivendra-webkul&theme=onedark&row=1&column=6" alt="trophy" />
+    <img src="https://github-profile-trophy.vercel.app/?username=shivendra-webkul&theme=radical&no-bg=true&no-frame=true&margin-w=10&margin-h=10" alt="GitHub Trophies" />
   </a>
 </p>
 

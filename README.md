@@ -30,7 +30,8 @@
 ## 🛠️ Languages & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=php,laravel,filament,vue,js,ts,mysql,tailwind,html,css,bootstrap,git,github,docker,linux,vscode,postman,redis,nginx" alt="skills" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,vue,js,ts,mysql,tailwind,html,css,bootstrap,git,github,docker,linux,vscode,postman,redis,nginx" alt="skills" />
+  <img src="https://img.shields.io/badge/Filament-FDAE4B?style=for-the-badge&logo=laravel&logoColor=white" alt="Filament" height="48" />
 </p>
 
 ## 🚀 Open Source Projects

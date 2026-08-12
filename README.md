@@ -93,7 +93,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=shivendra-webkul&theme=tokyonight&no-frame=true&column=7&margin-w=15&margin-h=15" alt="Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=shivendra-webkul&theme=onedark&column=4&margin-w=15&margin-h=15&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="Trophies" />
   </a>
 </p>
 
@@ -126,7 +126,7 @@
 
 ### ✨ Thanks for stopping by! ✨
 
-*"First, solve the problem. Then, write the code."* — John Johnson
+*"Code is like humor. When you have to explain it, it's bad."*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,100:0e75b6&height=100&section=footer" width="100%"/>
 

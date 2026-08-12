@@ -51,12 +51,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=shivendra-webkul&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="shivendra-webkul stats" width="49%" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=shivendra-webkul&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="shivendra-webkul top langs" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shivendra-webkul&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="shivendra-webkul stats" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivendra-webkul&layout=compact&theme=tokyonight&hide_border=true" alt="shivendra-webkul top langs" width="49%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivendra-webkul&theme=tokyonight&hide_border=true" alt="shivendra-webkul streak stats" width="70%" />
+  <img src="https://streak-stats.demolab.com?user=shivendra-webkul&theme=tokyonight&hide_border=true" alt="shivendra-webkul streak stats" width="70%" />
 </p>
 
 ## 📈 Contribution Graph

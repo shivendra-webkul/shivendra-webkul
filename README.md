@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:38bdf8&height=220&section=header&text=Hi%20There,%20I'm%20Shivendra%20%F0%9F%91%8B&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 
 <a href="https://github.com/shivendra-webkul">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=650&lines=Laravel+Developer+%40+Webkul;Bagisto+eCommerce+Contributor;Krayin+CRM+Contributor;PHP+%7C+Vue.js+%7C+MySQL+%7C+Tailwind" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=650&lines=Fullstack+Developer;Bagisto+eCommerce+Contributor;Krayin+CRM+Contributor;Aureus+ERP+Contributor;PHP+%7C+Laravel+%7C+Filament+%7C+Vue.js+%7C+MySQL" alt="Typing SVG" />
 </a>
 
 <p>
@@ -18,18 +18,19 @@
 
 ## 💼 About Me
 
-- 🔭 Currently working as a **Laravel Developer** at **Webkul** <img src="https://webkul.com/wp-content/themes/webkul-2020/images/brand-kit/brand-kit-logo/squareDark/png/square-dark-16-png.png" alt="Webkul Logo" width="20" height="20" valign="middle"/>
+- 🔭 Currently working as a **Fullstack Developer**
 - 🛒 Contributing to **[Bagisto](https://github.com/bagisto/bagisto)** – Open Source Laravel eCommerce Platform
 - 🤝 Working with **[Krayin CRM](https://github.com/krayin/laravel-crm)** – Open Source Laravel CRM
-- 👨‍💻 Experienced in **PHP, Laravel, Vue.js, JavaScript, MySQL and Tailwind CSS**
-- 🌱 Currently improving my skills in **Vue.js and modern web development**
-- 💬 Ask me about **Laravel, PHP, Bagisto, Krayin CRM and eCommerce**
+- 🏢 Contributing to **[Aureus ERP](https://github.com/aureuserp/aureuserp)** – Open Source Laravel + Filament ERP
+- 👨‍💻 Experienced in **PHP, Laravel, Filament, Vue.js, JavaScript, MySQL and Tailwind CSS**
+- 🌱 Currently improving my skills in **Filament, Vue.js and modern web development**
+- 💬 Ask me about **Laravel, Filament, PHP, Bagisto, Krayin CRM, Aureus ERP and eCommerce**
 - ⚡ Fun fact: **I debug faster than I write documentation**
 
 ## 🛠️ Languages & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=php,laravel,vue,js,ts,mysql,tailwind,html,css,bootstrap,git,github,docker,linux,vscode,postman,redis,nginx" alt="skills" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,filament,vue,js,ts,mysql,tailwind,html,css,bootstrap,git,github,docker,linux,vscode,postman,redis,nginx" alt="skills" />
 </p>
 
 ## 🚀 Open Source Projects
@@ -37,7 +38,7 @@
 <div align="center">
 <table>
   <tr>
-    <td align="center" width="50%">
+    <td align="center" width="33%">
       <h3><a href="https://github.com/bagisto/bagisto">🛒 Bagisto</a></h3>
       <p>
         <a href="https://github.com/bagisto/bagisto/stargazers"><img src="https://img.shields.io/github/stars/bagisto/bagisto?style=for-the-badge&color=f7b93e&logo=github&labelColor=1a1b27" alt="stars"/></a>
@@ -49,7 +50,7 @@
       </p>
       <sub><b>Laravel eCommerce Platform</b></sub>
     </td>
-    <td align="center" width="50%">
+    <td align="center" width="33%">
       <h3><a href="https://github.com/krayin/laravel-crm">🤝 Krayin CRM</a></h3>
       <p>
         <a href="https://github.com/krayin/laravel-crm/stargazers"><img src="https://img.shields.io/github/stars/krayin/laravel-crm?style=for-the-badge&color=f7b93e&logo=github&labelColor=1a1b27" alt="stars"/></a>
@@ -60,6 +61,18 @@
         <a href="https://github.com/krayin/laravel-crm/pulls"><img src="https://img.shields.io/github/issues-pr/krayin/laravel-crm?style=for-the-badge&color=8b5cf6&logo=github&labelColor=1a1b27" alt="prs"/></a>
       </p>
       <sub><b>Laravel CRM Platform</b></sub>
+    </td>
+    <td align="center" width="33%">
+      <h3><a href="https://github.com/aureuserp/aureuserp">🏢 Aureus ERP</a></h3>
+      <p>
+        <a href="https://github.com/aureuserp/aureuserp/stargazers"><img src="https://img.shields.io/github/stars/aureuserp/aureuserp?style=for-the-badge&color=f7b93e&logo=github&labelColor=1a1b27" alt="stars"/></a>
+        <a href="https://github.com/aureuserp/aureuserp/network/members"><img src="https://img.shields.io/github/forks/aureuserp/aureuserp?style=for-the-badge&color=38bdf8&logo=github&labelColor=1a1b27" alt="forks"/></a>
+      </p>
+      <p>
+        <a href="https://github.com/aureuserp/aureuserp/issues"><img src="https://img.shields.io/github/issues/aureuserp/aureuserp?style=for-the-badge&color=EF4444&logo=github&labelColor=1a1b27" alt="issues"/></a>
+        <a href="https://github.com/aureuserp/aureuserp/pulls"><img src="https://img.shields.io/github/issues-pr/aureuserp/aureuserp?style=for-the-badge&color=8b5cf6&logo=github&labelColor=1a1b27" alt="prs"/></a>
+      </p>
+      <sub><b>Laravel + Filament ERP</b></sub>
     </td>
   </tr>
 </table>
@@ -120,6 +133,7 @@
   <a href="https://webkul.com"><img src="https://img.shields.io/badge/Webkul-FF6C37?style=for-the-badge&logo=web&logoColor=white" alt="Webkul"/></a>
   <a href="https://bagisto.com"><img src="https://img.shields.io/badge/Bagisto-EF4444?style=for-the-badge&logo=laravel&logoColor=white" alt="Bagisto"/></a>
   <a href="https://krayincrm.com"><img src="https://img.shields.io/badge/Krayin-2563EB?style=for-the-badge&logo=laravel&logoColor=white" alt="Krayin"/></a>
+  <a href="https://aureuserp.com"><img src="https://img.shields.io/badge/Aureus%20ERP-F59E0B?style=for-the-badge&logo=laravel&logoColor=white" alt="Aureus ERP"/></a>
 </p>
 
 <div align="center">

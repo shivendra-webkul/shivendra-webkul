@@ -34,20 +34,53 @@
 
 ## 🚀 Open Source Projects
 
-<p align="center">
-  <a href="https://github.com/bagisto/bagisto">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bagisto&repo=bagisto&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Bagisto"/>
-  </a>
-  <a href="https://github.com/krayin/laravel-crm">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=krayin&repo=laravel-crm&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Krayin CRM"/>
-  </a>
-</p>
+<div align="center">
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <h3><a href="https://github.com/bagisto/bagisto">🛒 Bagisto</a></h3>
+      <p>
+        <a href="https://github.com/bagisto/bagisto/stargazers"><img src="https://img.shields.io/github/stars/bagisto/bagisto?style=for-the-badge&color=f7b93e&logo=github&labelColor=1a1b27" alt="stars"/></a>
+        <a href="https://github.com/bagisto/bagisto/network/members"><img src="https://img.shields.io/github/forks/bagisto/bagisto?style=for-the-badge&color=38bdf8&logo=github&labelColor=1a1b27" alt="forks"/></a>
+      </p>
+      <p>
+        <a href="https://github.com/bagisto/bagisto/issues"><img src="https://img.shields.io/github/issues/bagisto/bagisto?style=for-the-badge&color=EF4444&logo=github&labelColor=1a1b27" alt="issues"/></a>
+        <a href="https://github.com/bagisto/bagisto/pulls"><img src="https://img.shields.io/github/issues-pr/bagisto/bagisto?style=for-the-badge&color=8b5cf6&logo=github&labelColor=1a1b27" alt="prs"/></a>
+      </p>
+      <sub><b>Laravel eCommerce Platform</b></sub>
+    </td>
+    <td align="center" width="50%">
+      <h3><a href="https://github.com/krayin/laravel-crm">🤝 Krayin CRM</a></h3>
+      <p>
+        <a href="https://github.com/krayin/laravel-crm/stargazers"><img src="https://img.shields.io/github/stars/krayin/laravel-crm?style=for-the-badge&color=f7b93e&logo=github&labelColor=1a1b27" alt="stars"/></a>
+        <a href="https://github.com/krayin/laravel-crm/network/members"><img src="https://img.shields.io/github/forks/krayin/laravel-crm?style=for-the-badge&color=38bdf8&logo=github&labelColor=1a1b27" alt="forks"/></a>
+      </p>
+      <p>
+        <a href="https://github.com/krayin/laravel-crm/issues"><img src="https://img.shields.io/github/issues/krayin/laravel-crm?style=for-the-badge&color=EF4444&logo=github&labelColor=1a1b27" alt="issues"/></a>
+        <a href="https://github.com/krayin/laravel-crm/pulls"><img src="https://img.shields.io/github/issues-pr/krayin/laravel-crm?style=for-the-badge&color=8b5cf6&logo=github&labelColor=1a1b27" alt="prs"/></a>
+      </p>
+      <sub><b>Laravel CRM Platform</b></sub>
+    </td>
+  </tr>
+</table>
+</div>
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shivendra-webkul&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&cache_seconds=1800" alt="Shivendra stats" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivendra-webkul&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&cache_seconds=1800" alt="Top Languages" width="49%" />
+  <a href="https://github.com/shivendra-webkul">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shivendra-webkul&theme=tokyonight" alt="Profile Details" width="90%"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shivendra-webkul&theme=tokyonight" alt="Stats" width="44%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shivendra-webkul&theme=tokyonight&utcOffset=5.5" alt="Productive Time" width="44%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shivendra-webkul&theme=tokyonight&exclude=html,css" alt="Repos per Language" width="44%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shivendra-webkul&theme=tokyonight" alt="Most Commit Language" width="44%" />
 </p>
 
 <p align="center">
@@ -82,7 +115,6 @@
 
 <p align="center">
   <a href="https://github.com/shivendra-webkul"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="mailto:suraj.kashyap370@webkul.in"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://webkul.com"><img src="https://img.shields.io/badge/Webkul-FF6C37?style=for-the-badge&logo=web&logoColor=white" alt="Webkul"/></a>
   <a href="https://bagisto.com"><img src="https://img.shields.io/badge/Bagisto-EF4444?style=for-the-badge&logo=laravel&logoColor=white" alt="Bagisto"/></a>
   <a href="https://krayincrm.com"><img src="https://img.shields.io/badge/Krayin-2563EB?style=for-the-badge&logo=laravel&logoColor=white" alt="Krayin"/></a>

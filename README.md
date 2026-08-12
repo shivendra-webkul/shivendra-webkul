@@ -35,20 +35,36 @@
 
 ## 🚀 Open Source Projects
 
-<p align="center">
-  <a href="https://github.com/bagisto/bagisto">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bagisto&repo=bagisto&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=38bdf8&icon_color=f7b93e" alt="Bagisto" />
-  </a>
-  <a href="https://github.com/krayin/laravel-crm">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=krayin&repo=laravel-crm&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=38bdf8&icon_color=f7b93e" alt="Krayin CRM" />
-  </a>
+<div align="center">
+
+### 🛒 [Bagisto](https://github.com/bagisto/bagisto) &nbsp;·&nbsp; Laravel eCommerce Platform
+
+<p>
+  <a href="https://github.com/bagisto/bagisto/stargazers"><img src="https://img.shields.io/github/stars/bagisto/bagisto?style=flat-square&color=f7b93e&logo=github&labelColor=1a1b27" alt="stars"/></a>
+  <a href="https://github.com/bagisto/bagisto/network/members"><img src="https://img.shields.io/github/forks/bagisto/bagisto?style=flat-square&color=38bdf8&logo=github&labelColor=1a1b27" alt="forks"/></a>
+  <a href="https://github.com/bagisto/bagisto/issues"><img src="https://img.shields.io/github/issues/bagisto/bagisto?style=flat-square&color=EF4444&logo=github&labelColor=1a1b27" alt="issues"/></a>
+  <a href="https://github.com/bagisto/bagisto/pulls"><img src="https://img.shields.io/github/issues-pr/bagisto/bagisto?style=flat-square&color=8b5cf6&logo=github&labelColor=1a1b27" alt="prs"/></a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/aureuserp/aureuserp">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aureuserp&repo=aureuserp&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=38bdf8&icon_color=f7b93e" alt="Aureus ERP" />
-  </a>
+### 🤝 [Krayin CRM](https://github.com/krayin/laravel-crm) &nbsp;·&nbsp; Laravel CRM Platform
+
+<p>
+  <a href="https://github.com/krayin/laravel-crm/stargazers"><img src="https://img.shields.io/github/stars/krayin/laravel-crm?style=flat-square&color=f7b93e&logo=github&labelColor=1a1b27" alt="stars"/></a>
+  <a href="https://github.com/krayin/laravel-crm/network/members"><img src="https://img.shields.io/github/forks/krayin/laravel-crm?style=flat-square&color=38bdf8&logo=github&labelColor=1a1b27" alt="forks"/></a>
+  <a href="https://github.com/krayin/laravel-crm/issues"><img src="https://img.shields.io/github/issues/krayin/laravel-crm?style=flat-square&color=EF4444&logo=github&labelColor=1a1b27" alt="issues"/></a>
+  <a href="https://github.com/krayin/laravel-crm/pulls"><img src="https://img.shields.io/github/issues-pr/krayin/laravel-crm?style=flat-square&color=8b5cf6&logo=github&labelColor=1a1b27" alt="prs"/></a>
 </p>
+
+### 🏢 [Aureus ERP](https://github.com/aureuserp/aureuserp) &nbsp;·&nbsp; Laravel + Filament ERP
+
+<p>
+  <a href="https://github.com/aureuserp/aureuserp/stargazers"><img src="https://img.shields.io/github/stars/aureuserp/aureuserp?style=flat-square&color=f7b93e&logo=github&labelColor=1a1b27" alt="stars"/></a>
+  <a href="https://github.com/aureuserp/aureuserp/network/members"><img src="https://img.shields.io/github/forks/aureuserp/aureuserp?style=flat-square&color=38bdf8&logo=github&labelColor=1a1b27" alt="forks"/></a>
+  <a href="https://github.com/aureuserp/aureuserp/issues"><img src="https://img.shields.io/github/issues/aureuserp/aureuserp?style=flat-square&color=EF4444&logo=github&labelColor=1a1b27" alt="issues"/></a>
+  <a href="https://github.com/aureuserp/aureuserp/pulls"><img src="https://img.shields.io/github/issues-pr/aureuserp/aureuserp?style=flat-square&color=8b5cf6&logo=github&labelColor=1a1b27" alt="prs"/></a>
+</p>
+
+</div>
 
 ## 📊 GitHub Stats
 

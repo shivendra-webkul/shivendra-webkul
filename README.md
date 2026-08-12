@@ -35,48 +35,20 @@
 
 ## 🚀 Open Source Projects
 
-<div align="center">
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <h3><a href="https://github.com/bagisto/bagisto">🛒 Bagisto</a></h3>
-      <p>
-        <a href="https://github.com/bagisto/bagisto/stargazers"><img src="https://img.shields.io/github/stars/bagisto/bagisto?style=for-the-badge&color=f7b93e&logo=github&labelColor=1a1b27" alt="stars"/></a>
-        <a href="https://github.com/bagisto/bagisto/network/members"><img src="https://img.shields.io/github/forks/bagisto/bagisto?style=for-the-badge&color=38bdf8&logo=github&labelColor=1a1b27" alt="forks"/></a>
-      </p>
-      <p>
-        <a href="https://github.com/bagisto/bagisto/issues"><img src="https://img.shields.io/github/issues/bagisto/bagisto?style=for-the-badge&color=EF4444&logo=github&labelColor=1a1b27" alt="issues"/></a>
-        <a href="https://github.com/bagisto/bagisto/pulls"><img src="https://img.shields.io/github/issues-pr/bagisto/bagisto?style=for-the-badge&color=8b5cf6&logo=github&labelColor=1a1b27" alt="prs"/></a>
-      </p>
-      <sub><b>Laravel eCommerce Platform</b></sub>
-    </td>
-    <td align="center" width="33%">
-      <h3><a href="https://github.com/krayin/laravel-crm">🤝 Krayin CRM</a></h3>
-      <p>
-        <a href="https://github.com/krayin/laravel-crm/stargazers"><img src="https://img.shields.io/github/stars/krayin/laravel-crm?style=for-the-badge&color=f7b93e&logo=github&labelColor=1a1b27" alt="stars"/></a>
-        <a href="https://github.com/krayin/laravel-crm/network/members"><img src="https://img.shields.io/github/forks/krayin/laravel-crm?style=for-the-badge&color=38bdf8&logo=github&labelColor=1a1b27" alt="forks"/></a>
-      </p>
-      <p>
-        <a href="https://github.com/krayin/laravel-crm/issues"><img src="https://img.shields.io/github/issues/krayin/laravel-crm?style=for-the-badge&color=EF4444&logo=github&labelColor=1a1b27" alt="issues"/></a>
-        <a href="https://github.com/krayin/laravel-crm/pulls"><img src="https://img.shields.io/github/issues-pr/krayin/laravel-crm?style=for-the-badge&color=8b5cf6&logo=github&labelColor=1a1b27" alt="prs"/></a>
-      </p>
-      <sub><b>Laravel CRM Platform</b></sub>
-    </td>
-    <td align="center" width="33%">
-      <h3><a href="https://github.com/aureuserp/aureuserp">🏢 Aureus ERP</a></h3>
-      <p>
-        <a href="https://github.com/aureuserp/aureuserp/stargazers"><img src="https://img.shields.io/github/stars/aureuserp/aureuserp?style=for-the-badge&color=f7b93e&logo=github&labelColor=1a1b27" alt="stars"/></a>
-        <a href="https://github.com/aureuserp/aureuserp/network/members"><img src="https://img.shields.io/github/forks/aureuserp/aureuserp?style=for-the-badge&color=38bdf8&logo=github&labelColor=1a1b27" alt="forks"/></a>
-      </p>
-      <p>
-        <a href="https://github.com/aureuserp/aureuserp/issues"><img src="https://img.shields.io/github/issues/aureuserp/aureuserp?style=for-the-badge&color=EF4444&logo=github&labelColor=1a1b27" alt="issues"/></a>
-        <a href="https://github.com/aureuserp/aureuserp/pulls"><img src="https://img.shields.io/github/issues-pr/aureuserp/aureuserp?style=for-the-badge&color=8b5cf6&logo=github&labelColor=1a1b27" alt="prs"/></a>
-      </p>
-      <sub><b>Laravel + Filament ERP</b></sub>
-    </td>
-  </tr>
-</table>
-</div>
+<p align="center">
+  <a href="https://github.com/bagisto/bagisto">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bagisto&repo=bagisto&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=38bdf8&icon_color=f7b93e" alt="Bagisto" />
+  </a>
+  <a href="https://github.com/krayin/laravel-crm">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=krayin&repo=laravel-crm&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=38bdf8&icon_color=f7b93e" alt="Krayin CRM" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/aureuserp/aureuserp">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aureuserp&repo=aureuserp&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=38bdf8&icon_color=f7b93e" alt="Aureus ERP" />
+  </a>
+</p>
 
 ## 📊 GitHub Stats
 

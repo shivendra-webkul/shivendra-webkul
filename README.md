@@ -1,125 +1,85 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:38bdf8&height=220&section=header&text=Shivendra%20Gupta&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Laravel%20Developer%20|%20Open%20Source%20Contributor%20|%20eCommerce%20Developer&descAlignY=55&descSize=18" alt="banner" />
-</p>
+<div align="center">
 
-<!-- Typing animation -->
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=0E75B6&center=true&vCenter=true&width=650&lines=Building+scalable+web+apps+with+Laravel+%F0%9F%9A%80;Contributing+to+Bagisto+%F0%9F%9B%92;Working+with+Krayin+CRM+%F0%9F%A4%9D;PHP+%7C+Vue.js+%7C+MySQL+%7C+Tailwind+CSS" alt="Typing SVG" />
-  </a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:38bdf8&height=200&section=header&text=Hi%20There,%20I'm%20Shivendra%20👋&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shivendra-webkul&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/shivendra-webkul?label=Followers&style=for-the-badge&color=38bdf8" alt="Followers" />
-</p>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Laravel+Developer;Bagisto+eCommerce+Contributor;Krayin+CRM+Contributor;PHP+%7C+Vue.js+%7C+MySQL" alt="Typing SVG" />
+</a>
 
----
+<img src="https://komarev.com/ghpvc/?username=shivendra-webkul&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
+<img src="https://img.shields.io/github/followers/shivendra-webkul?label=Followers&style=for-the-badge&color=38bdf8" alt="followers" />
 
-## 👨‍💻 About Me
+</div>
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/gist/vn7n24fzkq/94b3e5d4c4d6d3b3fb45d9d54a1c9e3d/raw/coding.gif" alt="coding gif" />
+<br/>
 
-* 🔭 Currently working with **Laravel and eCommerce solutions**
-* 🛒 Contributing to **Bagisto** – Open Source Laravel eCommerce Platform
-* 🤝 Working with **Krayin CRM**
-* 💻 Experienced in **PHP, Laravel, Vue.js, JavaScript, MySQL and Tailwind CSS**
-* 🚀 Interested in building scalable **eCommerce platforms, CRM systems and APIs**
-* 🌱 Currently improving my skills in **Vue.js and modern web development**
-* 💬 Ask me about **Laravel, PHP, Bagisto, Krayin CRM and eCommerce**
-* ⚡ Fun fact: I debug faster than I write documentation 😄
+## 💼 About Me
 
-<br clear="right"/>
-
----
+- 🔭 Currently working as a **Laravel Developer** at **Webkul** <img src="https://webkul.com/wp-content/themes/webkul-2020/images/brand-kit/brand-kit-logo/squareDark/png/square-dark-16-png.png" alt="Webkul Logo" width="20" height="20" valign="middle"/>
+- 🛒 Contributing to **Bagisto** – Open Source Laravel eCommerce Platform
+- 🤝 Working with **Krayin CRM** – Open Source Laravel CRM
+- 👨‍💻 Experienced in **PHP, Laravel, Vue.js, JavaScript, MySQL and Tailwind CSS**
+- 🌱 Currently improving my skills in **Vue.js and modern web development**
+- 💬 Ask me about **Laravel, PHP, Bagisto, Krayin CRM and eCommerce**
+- ⚡ Fun fact: **I debug faster than I write documentation**
 
 ## 🛠️ Languages & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=php,laravel,vue,js,mysql,tailwind,git,docker,html,css&theme=light" alt="skills" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </p>
-
----
 
 ## 🚀 Open Source Projects
 
-<table>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/bagisto/bagisto">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=bagisto&repo=bagisto&theme=default&hide_border=true" alt="Bagisto"/>
-      </a>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/krayin/laravel-crm">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=krayin&repo=laravel-crm&theme=default&hide_border=true" alt="Krayin CRM"/>
-      </a>
-    </td>
-  </tr>
-</table>
-
----
-
-## 🏆 GitHub Achievements
-
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shivendra-webkul&theme=algolia&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7" alt="GitHub Trophies"/>
+  <a href="https://github.com/bagisto/bagisto">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bagisto&repo=bagisto&theme=tokyonight&hide_border=true" alt="Bagisto"/>
+  </a>
+  <a href="https://github.com/krayin/laravel-crm">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=krayin&repo=laravel-crm&theme=tokyonight&hide_border=true" alt="Krayin CRM"/>
+  </a>
 </p>
 
----
-
-## 📊 GitHub Statistics
+## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=shivendra-webkul&show_icons=true&hide_border=true&include_all_commits=true&theme=default&count_private=true" alt="GitHub Stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivendra-webkul&layout=compact&hide_border=true&theme=default" alt="Top Languages"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=shivendra-webkul&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="shivendra-webkul stats" width="49%" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=shivendra-webkul&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="shivendra-webkul top langs" width="49%" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=shivendra-webkul&hide_border=true&theme=default" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivendra-webkul&theme=tokyonight&hide_border=true" alt="shivendra-webkul streak stats" width="70%" />
 </p>
-
----
 
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivendra-webkul&hide_border=true&theme=react-dark&bg_color=ffffff" alt="Contribution Graph"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shivendra-webkul/shivendra-webkul/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shivendra-webkul/shivendra-webkul/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/shivendra-webkul/shivendra-webkul/output/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/shivendra-webkul/shivendra-webkul/output/github-contribution-grid-snake.svg" alt="snake animation"/>
-</p>
-
-> ℹ️ To enable this animated snake, add the **[Platane/snk](https://github.com/Platane/snk)** GitHub Action to your profile repo — it generates `github-contribution-grid-snake.svg` automatically on the `output` branch from your real contribution graph.
-
----
 
 ## 🤝 Connect With Me
 
-<p align="left">
-  <a href="https://github.com/shivendra-webkul" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-shivendra--webkul-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-38bdf8?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
-  </a>
-</p>
-
----
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,100:0e75b6&height=100&section=footer" alt="footer"/>
+  <a href="https://github.com/shivendra-webkul"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
-<p align="center">
-  ⭐ Feel free to explore my repositories and follow my work!
-</p>
+<div align="center">
+
+### ✨ Thanks for stopping by! ✨
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,100:0e75b6&height=100&section=footer" width="100%"/>
+
+</div>

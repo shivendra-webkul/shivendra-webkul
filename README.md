@@ -29,7 +29,7 @@
 ## 🛠️ Languages & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=php,laravel,vue,js,ts,mysql,tailwind,html,css,bootstrap,git,github,docker,linux,vscode,postman,redis,nginx,stripe" alt="skills" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,vue,js,ts,mysql,tailwind,html,css,bootstrap,git,github,docker,linux,vscode,postman,redis,nginx" alt="skills" />
 </p>
 
 ## 🚀 Open Source Projects

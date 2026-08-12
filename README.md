@@ -84,14 +84,16 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivendra-webkul&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="70%" />
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=shivendra-webkul&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=800" alt="GitHub Streak" width="70%" />
+  </a>
 </p>
 
 ## 🏆 GitHub Trophies
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=shivendra-webkul&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=shivendra-webkul&theme=tokyonight&no-frame=true&column=7&margin-w=15&margin-h=15" alt="Trophies" />
   </a>
 </p>
 

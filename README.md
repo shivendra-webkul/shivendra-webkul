@@ -29,7 +29,7 @@
 ## 🛠️ Languages & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=php,laravel,vue,js,ts,mysql,tailwind,html,css,bootstrap,git,github,docker,linux,vscode,postman,redis,nginx" alt="skills" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,vue,js,ts,mysql,tailwind,html,css,bootstrap,git,github,docker,linux,vscode,postman,redis,nginx,stripe" alt="skills" />
 </p>
 
 ## 🚀 Open Source Projects
@@ -87,29 +87,6 @@
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=shivendra-webkul&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=800" alt="GitHub Streak" width="70%" />
   </a>
-</p>
-
-## 🌟 What I Do
-
-<p align="center">
-  <img src="https://img.shields.io/badge/%F0%9F%9B%92%20eCommerce-Bagisto%20Core-EF4444?style=for-the-badge&labelColor=1a1b27" alt="eCommerce"/>
-  <img src="https://img.shields.io/badge/%F0%9F%A4%9D%20CRM-Krayin%20Contributor-2563EB?style=for-the-badge&labelColor=1a1b27" alt="CRM"/>
-  <img src="https://img.shields.io/badge/%F0%9F%9A%80%20Laravel-Backend%20Dev-FF2D20?style=for-the-badge&labelColor=1a1b27" alt="Laravel"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/%E2%9A%A1%20Vue.js-Frontend-4FC08D?style=for-the-badge&labelColor=1a1b27" alt="Vue"/>
-  <img src="https://img.shields.io/badge/%F0%9F%92%BE%20MySQL-Database-4479A1?style=for-the-badge&labelColor=1a1b27" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/%F0%9F%8E%A8%20Tailwind-UI%20Design-06B6D4?style=for-the-badge&labelColor=1a1b27" alt="Tailwind"/>
-  <img src="https://img.shields.io/badge/%F0%9F%90%B3%20Docker-DevOps-2496ED?style=for-the-badge&labelColor=1a1b27" alt="Docker"/>
-</p>
-
-<p align="center">
-  <b>🏢 Working @</b>
-  <a href="https://webkul.com"><img src="https://img.shields.io/badge/Webkul-Software-FF6C37?style=for-the-badge&logo=laravel&labelColor=1a1b27" alt="Webkul"/></a>
-  <b>·</b>
-  <b>💼 Role:</b>
-  <img src="https://img.shields.io/badge/Laravel%20Developer-777BB4?style=for-the-badge&logo=php&labelColor=1a1b27" alt="Role"/>
 </p>
 
 ## 📈 Activity Graph
